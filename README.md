@@ -32,3 +32,6 @@ Pragma switches:
 - `stripcomments` - remove comments
 - `pack` - remove excessive whitespace from lines of source
 - `minify` - run AjaxMini on source. will override all above switches
+
+website:
+- http://codewar65.comoj.com/j
